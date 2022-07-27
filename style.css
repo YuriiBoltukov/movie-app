@@ -1,0 +1,9 @@
+a {
+    color: inherit;
+}
+
+.card-text {
+    max-height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
